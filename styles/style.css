@@ -12,6 +12,9 @@ body {
     color: #289BDE;
 }
 
+.fa-star {
+    color: #FBBF24;
+}
 
 @media only screen and (max-width:767px) {
     .cards img {
