@@ -1,8 +1,14 @@
+/*  Common Styles or Utilities */
+
 body {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
 }
+
+
+
+/* Ready to Join Section */
 
 .join {
     background-color: #289BDE;
@@ -12,9 +18,17 @@ body {
     color: #289BDE;
 }
 
+
+
+/* Fontawesome Icon Section */
+
 .fa-star {
     color: #FBBF24;
 }
+
+
+
+/* Media Queries */
 
 @media only screen and (max-width:767px) {
     .cards img {
